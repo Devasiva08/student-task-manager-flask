@@ -1,17 +1,22 @@
 # student-task-manager-flask
 Flask web app deployed on AWS Elastic Beanstalk
 
+## 🔹 Problem Statement
+Students often forget daily academic and personal tasks.
+This application helps students add, view, and delete tasks through a simple web interface.
+
+## 🔹 Features
+- Add new tasks
+- View all tasks
+- Delete completed tasks
+- Persistent storage using SQLite
+- Cloud deployment using AWS Elastic Beanstalk
+- 
 ## Tech Stack
 - Python (Flask)
 - SQLite
 - HTML, CSS
 - AWS Elastic Beanstalk
-
-## Features
-- Add tasks
-- Delete tasks
-- Persistent storage using SQLite
-- Deployed on AWS Elastic Beanstalk
 
 ## Deployment
 This project was deployed using AWS Elastic Beanstalk with a Free Tier EC2 instance.
